@@ -1,0 +1,8 @@
+{
+  "buildCommand": "cd techvision-inc && npm run build",
+  "outputDirectory": "techvision-inc/.next",
+  "installCommand": "cd techvision-inc && npm install",
+  "devCommand": "cd techvision-inc && npm run dev",
+  "framework": "nextjs",
+  "regions": ["nrt1"]
+}
